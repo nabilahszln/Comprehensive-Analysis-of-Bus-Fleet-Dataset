@@ -1,7 +1,8 @@
 📌 Project Overview 
 
-This project presents a comprehensive analysis of a bus fleet dataset using Microsoft Excel (Pivot Tables, Charts, and Data Visualization techniques) to explore fleet distribution, operational status, bus age trends, and maintenance insights.
+This project was completed collaboratively with my internship partner as the final task during our internship period. It represents the culmination of our work in data analysis and reporting, where we applied Microsoft Excel (Pivot Tables and visualization tools) to extract meaningful insights from the bus fleet dataset.
 
+The project demonstrates our ability to work in a team, analyse operational data, and present findings in a structured and decision-support format.
 The analysis focuses on understanding the overall condition and performance of the bus fleet, including:
 
 - Fleet distribution by bus model and region
